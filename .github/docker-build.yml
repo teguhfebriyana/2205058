@@ -22,4 +22,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: teguh10/Dockerfile:latest
+        tags: teguhfebriyana/Dockerfile:latest
